@@ -1,6 +1,7 @@
 # This determines the schema that all indicator metadata must follow.
 # It also provides a configuration for the Prose.io file-editing service.
 prose:
+  default_branch: 'develop'
   metadata:
     meta:
       ######### Global Metadata #########
@@ -531,7 +532,7 @@ prose:
             options:
               - name: 'complete'
                 value: 'complete'
-                translation_key: status.reported
+                translation_key: status.reported_online
               - name: 'inprogress'
                 value: 'inprogress'
                 translation_key: status.statistics_in_progress
@@ -542,6 +543,64 @@ prose:
                 value: 'notapplicable'
                 translation_key: status.not_applicable
             scope: data
+      - name: data_non_statistical
+        field:
+            element: checkbox
+            label: Non-statistical indicator
+            translation_key: metadata_fields.data_non_statistical
+            help: Check this box if this indicator does not have numeric data associated with it
+            value: false
+            scope: data
+      - name: data_footnote
+        field:
+            element: text
+            label: Footnote
+            translation_key: metadata_fields.data_footnote
+            help: Footnotes appear under the chart and by data tables
+            scope: data
+      - name: data_footnotes
+        field:
+            element: text
+            label: Footnote
+            translation_key: metadata_fields.data_footnotes
+            help: Footnotes appear under the chart and by data tables
+            scope: data
+      - name: copyright
+        field:
+            element: text
+            label: Copyright
+            translation_key: metadata_fields.copyright
+            help: Copyright appears under the chart and by data tables
+            scope: data
+      - name: data_geocode_regex
+        field:
+            element: text
+            label: GeoCode Regular Expression
+            translation_key: metadata_fields.data_geocode_regex
+            help: A regex on which geocodes to include
+            scope: data
+      - name: data_keywords
+        field:
+            element: text
+            label: Search Keywords
+            translation_key: metadata_fields.data_keywords
+            help: Comma separated keywords for search page
+            scope: data
+      - name: data_show_map
+        field:
+            element: checkbox
+            label: Show the map when GeoCodes are present?
+            translation_key: metadata_fields.data_show_map
+            help: If this box is checked then the prescence of a GeoCode field will trigger a map
+            value: false
+            scope: data
+      - name: "indicator_sort_order"
+        field:
+            element: text
+            label: "Indicator display order (within Goal page)"
+            translation_key: metadata_fields.indicator_sort_order
+            scope: data
+         
       ######### National Sources #########
       ## Source 1
       - name: source_active_1
