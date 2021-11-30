@@ -1,5 +1,5 @@
 Value,Disaggregation combinations using this value,Number of indicators
-<16,2,2
-18 a 64,1,1
-<18,1,1
->=65,1,1
+<16,3,3
+18 a 64,2,2
+<18,2,2
+>=65,2,2
