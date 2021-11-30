@@ -8,7 +8,7 @@
 # This tells sdg-build to perform "translated builds" for each of the specified
 # languages. Each build is in its own subfolder - one for each language.
 languages:
-  - en
+  - ca
   - es
 
 # Destination directory
@@ -73,8 +73,9 @@ translations:
     source: https://github.com/open-sdg/sdg-translations.git
     tag: 1.6.0
   # This pulls in translations from a local 'translations' folder.
-  - class: TranslationInputYaml
-    source: translations
+  - class: TranslationInputSdgTranslations
+    source: https://github.com/ODSValencia/sdg-translations.git
+    tag: 1.4.0-dev
 
 # Reporting status extra fields
 # -----------------------------
@@ -116,3 +117,10 @@ docs_intro: This is a list of examples of endpoints and output that are
 # This is mainly intended to show units of measurement and series, which are not
 # normally considered "disaggregation".
 # docs_extra_disaggregations: ['Units', 'Series']
+
+datapackage:
+    sorting: default
+
+data_schema:
+  class: DataSchemaInputTableSchemaYaml
+  source: data-schema/*.yml
