@@ -20,7 +20,7 @@ graph_stacked_disaggregation: ''
 graph_title: custom-translations.1-2-3-title
 graph_titles: []
 graph_type: line
-indicator_name: custom-translations.1-2-3-title
+indicator_name: global_goals.1-2-3-title
 indicator_number: '1.2.3'
 national_geographical_coverage: Valencia
 page_content: ''
