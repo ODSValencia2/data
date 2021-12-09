@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.1-a-title
 SDG_INDICATOR: >-
-  global_indicators.1-a-1-title
+  Presupuesto municipal destinado a Cooperación ODS1
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -34,6 +34,7 @@ CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
   9907-Datos estadísticos de la ciudad de València. Plan Valenciano de Estadística 2019-2022.
+   
    Servicio de Cooperación Municipal. Ayuntamiento de València.
 COLL_METHOD: >-
 
