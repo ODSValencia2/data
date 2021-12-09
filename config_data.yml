@@ -68,12 +68,12 @@ inputs:
 # project. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.  
 translations:
-  #- class: TranslationInputSdgTranslations
-  #  source: https://github.com/open-sdg/sdg-translations.git
-  #  tag: 1.7.0-dev
   - class: TranslationInputSdgTranslations
-    source: https://github.com/ODSValencia2/sdg-translations2.git
+    source: https://github.com/open-sdg/sdg-translations.git
     tag: 1.7.0-dev
+  #- class: TranslationInputSdgTranslations
+  #  source: https://github.com/ODSValencia2/sdg-translations2.git
+  #  tag: 1.7.0-dev
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations
