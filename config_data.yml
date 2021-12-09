@@ -69,8 +69,8 @@ inputs:
 # The defaults below show what is used when this is omitted.  
 translations:
   - class: TranslationInputSdgTranslations
-    source: https://github.com/ODSValencia2/sdg-translations.git
-    tag: master
+    source: https://github.com/open-sdg/sdg-translations.git
+    tag: 1.7.0-dev
   #- class: TranslationInputSdgTranslations
   #  source: https://github.com/ODSValencia2/sdg-translations.git
   #  tag: 1.4.0-dev
