@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Homes",
-                "Dones",
+                "Men",
+                "Women",
                 ""
               ]
             },
-            "title": "Sexe"
+            "title": "Gender"
           },
           {
             "name": "Age",
@@ -36,12 +36,12 @@
                 ""
               ]
             },
-            "title": "Edat"
+            "title": "Age"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

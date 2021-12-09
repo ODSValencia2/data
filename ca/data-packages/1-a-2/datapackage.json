@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }

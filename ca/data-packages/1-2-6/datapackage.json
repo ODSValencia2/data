@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "GeoCode",
@@ -23,7 +23,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
