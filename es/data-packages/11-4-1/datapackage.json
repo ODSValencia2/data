@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-4-1",
-  "title": "Total de gastos per cápita destinados a la preservación, protección y conservación de todo el patrimonio cultural y natural, desglosado por fuente de financiación (pública y privada), tipo de patrimonio (cultural y natural) y nivel de gobierno (nacional, regional y local/municipal)"
+  "title": "Total de gastos (públicos y privados) per cápita destinados a la preservación, protección y conservación de todo el patrimonio cultural y natural, desglosado por tipo de patrimonio (cultural, natural, mixto y reconocido por el Centro del Patrimonio Mundial), nivel de gobierno (nacional, regional y local o municipal), tipo de gastos (gastos de funcionamiento o inversiones) y tipo de financiación privada (donaciones en especie, financiación procedente del sector privado sin fines de lucro y patrocinio)"
 }
