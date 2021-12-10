@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   global_targets.1-2-title
 SDG_INDICATOR: >-
-  global_indicators.1-2-11-title
+  Llars familiars formades exclusivament per persones de 65 o més anys
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -27,13 +27,13 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  Número de hojas familiares formadas únicamente por personas de 65 o más años de edad.
+  Nombre de fulles familiars formades únicament per persones de 65 o més anys d'edat.
 UNIT_MEASURE: >-
-  Número de hogares
+  Nombre de llars
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Plan Valenciano de Estadística 2019-2022.
+  0211-Características de la población de València. Padrón municipal de València a 1 de enero de cada año. Pla Valencià d'Estadística 2019-2022.
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -50,9 +50,9 @@ RATIONALE: >-
 
 REC_USE_LIM: >-
   
-  Documentación metodológica sobre la explotación estadística del Padrón Municipal de Habitantes: [Padrón Municipal](https://www.valencia.es/estadistica/padron/2020/padron2020val.pdf).
+  Documentació metodològica sobre l'explotació estadística del Padró Municipal d'Habitants: [Padró Municipal](https://www.valencia.es/estadistica/Padron/2020/Padron2020Val.pdf).
 DATA_COMP: >-
-  Número de hojas familiares formadas únicamente por personas de 65 o más años de edad empadronadas en la ciudad a 1 de enero del año de referencia.
+  Nombre de fulles familiars formades únicament per persones de 65 o més anys d'edat empadronades a la ciutat a 1 de gener de l'any de referència.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
