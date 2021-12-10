@@ -61,7 +61,7 @@ REC_USE_LIM: >-
    La información del Atlas de Distribución de Renta de los Hogares del INE está disponible para otras características demográficas y ámbitos territoriales menores (barrios y secciones).
 DATA_COMP: >-
   Cociente de la población en niveles de pobreza alta considerando el umbral nacional de pobreza alta el año de referencia respecto a la población residente.
-   El ingreso de cada una de las personas que residen en un determinado hogar se calcula como el ingreso del total del hogar a la cual pertenecen entre su número de unidades de consumo. A continuación se obtiene la mediana (percentil 50) de la distribución de ingresos de todas las personas residentes, siendo el 40% de este valor el umbral de pobreza considerado en este indicador.
+ El ingreso de cada una de las personas que residen en un determinado hogar se calcula como el ingreso del total del hogar a la cual pertenecen entre su número de unidades de consumo. A continuación se obtiene la mediana (percentil 50) de la distribución de ingresos de todas las personas residentes, siendo el 40% de este valor el umbral de pobreza considerado en este indicador.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

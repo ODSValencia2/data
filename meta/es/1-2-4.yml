@@ -56,15 +56,15 @@ REC_USE_LIM: >-
    Documentación metodológica sobre Indicadores de Pobreza y Condiciones de Vida a nivel subregional: [Pobreza y Condiciones de Vida](https://pegv.gva.es/auto/produccion/web/ecv/metodologia/metodologia_val.htm).
 DATA_COMP: >-
   Porcentaje de población que vive en hogares que carecen al menos de cuatro conceptos de los nueve siguientes:
-   1) No puede permitirse ir de vacaciones al menos una semana en el año. 
-   2) No puede permitirse una comida de carne, pollo o pez al menos cada dos días.
-   3) No puede permitirse mantener la vivienda con una temperatura adecuada.
-   4) No tiene capacidad para afrontar gastos imprevistos.
-   5) Ha tenido retrasos en el pago de gastos relacionados con la vivienda principal en los últimos 12 meses.
-   6) No puede permitirse disponer de un automóvil.
-   7) No puede permitirse disponer de teléfono.
-   8) No puede permitirse disponer de un televisor.
-   9) No puede permitirse disponer de una lavadora.
+ 1) No puede permitirse ir de vacaciones al menos una semana en el año. 
+ 2) No puede permitirse una comida de carne, pollo o pez al menos cada dos días.
+ 3) No puede permitirse mantener la vivienda con una temperatura adecuada.
+ 4) No tiene capacidad para afrontar gastos imprevistos.
+ 5) Ha tenido retrasos en el pago de gastos relacionados con la vivienda principal en los últimos 12 meses.
+ 6) No puede permitirse disponer de un automóvil.
+ 7) No puede permitirse disponer de teléfono.
+ 8) No puede permitirse disponer de un televisor.
+ 9) No puede permitirse disponer de una lavadora.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

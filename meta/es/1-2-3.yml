@@ -60,17 +60,17 @@ REC_USE_LIM: >-
    Una persona vive en un hogar con una intensidad de ocupación baja si sus miembros en edad de trabajar lo hicieron menos del 20% de su potencial total de trabajo el año anterior al de la entrevista. Para lo cual se calcula el número de meses en que los miembros del hogar han estado trabajando durante el año de referencia (los meses con trabajo a jornada completa cuenta como 1, los meses a jornada parcial como 0,5 y los meses sin trabajo como 0), y por otro lado el total de meses en que teóricamente esos mismos miembros podrían haber trabajado. A continuación se calcula el ratio, estableciendo que el hogar tiene una intensidad de ocupación baja si su valor es inferior al 20%. Esta condición solo se aplica en la población de 0 a 59 años de edad.
 DATA_COMP: >-
   Una persona estará en riesgo de pobreza relativa si vive con unos ingresos por unidad de consumo por debajo del umbral autonómico de pobreza el año anterior a la entrevista.
-   Una persona sufre privación material severa si el hogar en la cual vive carencia al menos de cuatro conceptos de los nueve siguientes:
-   1) No puede permitirse ir de vacaciones al menos una semana en el año. 
-   2) No puede permitirse una comida de carne, pollo o pez al menos cada dos días.
-   3) No puede permitirse mantener la vivienda con una temperatura adecuada.
-   4) No tiene capacidad para afrontar gastos imprevistos (de 650 euros).
-   5) Ha tenido retrasos en el pago de gastos relacionados con la vivienda principal (hipoteca o alquiler, recibidos de gas, comunidad...) en los últimos 12 meses.
-   6) No puede permitirse disponer de un automóvil.
-   7) No puede permitirse disponer de teléfono.
-   8) No puede permitirse disponer de un televisor.
-   9) No puede permitirse disponer de una lavadora.
-   Una persona vive en un hogar con baja intensidad de ocupación si sus miembros en edad de trabajar lo hicieron menos del 20% de su potencial total de trabajo el año anterior al de la entrevista. 
+ Una persona sufre privación material severa si el hogar en la cual vive carencia al menos de cuatro conceptos de los nueve siguientes:
+ 1) No puede permitirse ir de vacaciones al menos una semana en el año. 
+ 2) No puede permitirse una comida de carne, pollo o pez al menos cada dos días.
+ 3) No puede permitirse mantener la vivienda con una temperatura adecuada.
+ 4) No tiene capacidad para afrontar gastos imprevistos (de 650 euros).
+ 5) Ha tenido retrasos en el pago de gastos relacionados con la vivienda principal (hipoteca o alquiler, recibidos de gas, comunidad...) en los últimos 12 meses.
+ 6) No puede permitirse disponer de un automóvil.
+ 7) No puede permitirse disponer de teléfono.
+ 8) No puede permitirse disponer de un televisor.
+ 9) No puede permitirse disponer de una lavadora.
+ Una persona vive en un hogar con baja intensidad de ocupación si sus miembros en edad de trabajar lo hicieron menos del 20% de su potencial total de trabajo el año anterior al de la entrevista. 
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
