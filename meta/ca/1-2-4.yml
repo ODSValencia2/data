@@ -55,15 +55,15 @@ REC_USE_LIM: >-
   Documentació metodològica sobre Indicadors de Pobresa i Condicions de Vida a nivell subregional: [Pobresa i Condicions de Vida](https://pegv.gva.es/auto/produccion/web/ECV/Metodologia/Metodologia_val.htm).
 DATA_COMP: >-
   Percentatge de població que viu en llars que manquen almenys de quatre conceptes dels nou següents:
-  1) No pot permetre's anar de vacances almenys una setmana a l'any. 
-  2) No pot permetre's un menjar de carn, pollastre o peix almenys cada dos dies.
-  3) No pot permetre's mantindre l'habitatge amb una temperatura adequada.
-  4) No té capacitat per a afrontar despeses imprevistes.
-  5) Ha tingut retards en el pagament de despeses relacionades amb l'habitatge principal en els últims 12 mesos.
-  6) No pot permetre's disposar d'un automòbil.
-  7) No pot permetre's disposar de telèfon.
-  8) No pot permetre's disposar d'un televisor.
-  9) No pot permetre's disposar d'una llavadora.
+1) No pot permetre's anar de vacances almenys una setmana a l'any. 
+2) No pot permetre's un menjar de carn, pollastre o peix almenys cada dos dies.
+3) No pot permetre's mantindre l'habitatge amb una temperatura adequada.
+4) No té capacitat per a afrontar despeses imprevistes.
+5) Ha tingut retards en el pagament de despeses relacionades amb l'habitatge principal en els últims 12 mesos.
+6) No pot permetre's disposar d'un automòbil.
+7) No pot permetre's disposar de telèfon.
+8) No pot permetre's disposar d'un televisor.
+9) No pot permetre's disposar d'una llavadora.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

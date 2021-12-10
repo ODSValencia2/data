@@ -59,7 +59,7 @@ REC_USE_LIM: >-
   Com la mitjana dels ingressos a la Comunitat Valenciana és inferior a la d'Espanya, els percentatges de pobresa amb llindar autonòmic són sensiblement inferiors als que es tenen utilitzant el llindar nacional.
 DATA_COMP: >-
   Quocient de la població en risc de pobresa relativa considerant el llindar autonòmic de pobresa l'any de referència respecte a la població resident.
-  L'ingrés de cadascuna de les persones que resideixen en una determinada llar es calcula com l'ingrés del total de la llar a la qual pertanyen entre el seu nombre d'unitats de consum. A continuació s'obté la mediana (percentil 50) de la distribució d'ingressos de totes les persones residents, sent el 60% d'aquest valor el llindar de pobresa considerat per a mesurar la pobresa relativa.
+L'ingrés de cadascuna de les persones que resideixen en una determinada llar es calcula com l'ingrés del total de la llar a la qual pertanyen entre el seu nombre d'unitats de consum. A continuació s'obté la mediana (percentil 50) de la distribució d'ingressos de totes les persones residents, sent el 60% d'aquest valor el llindar de pobresa considerat per a mesurar la pobresa relativa.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-

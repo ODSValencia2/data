@@ -60,7 +60,7 @@ REC_USE_LIM: >-
   La informació de l'Atles de Distribució de Renda de les Llars de l'INE està disponible per a altres característiques demogràfiques i àmbits territorials menors (barris i seccions).
 DATA_COMP: >-
   Quocient de la població en risc de pobresa relativa considerant el llindar nacional de pobresa l'any de referència associat a ingressos recollits en fonts tributàries respecte a la població resident.
-  L'ingrés de cadascuna de les persones que resideixen en una determinada llar es calcula com l'ingrés del total de la llar a la qual pertanyen entre el seu nombre d'unitats de consum. A continuació s'obté la mediana (percentil 50) de la distribució d'ingressos de totes les persones residents, sent el 60% d'aquest valor el llindar de pobresa considerat per a mesurar la pobresa relativa.
+L'ingrés de cadascuna de les persones que resideixen en una determinada llar es calcula com l'ingrés del total de la llar a la qual pertanyen entre el seu nombre d'unitats de consum. A continuació s'obté la mediana (percentil 50) de la distribució d'ingressos de totes les persones residents, sent el 60% d'aquest valor el llindar de pobresa considerat per a mesurar la pobresa relativa.
 DATA_VALIDATION: >-
 
 ADJUSTMENT: >-
