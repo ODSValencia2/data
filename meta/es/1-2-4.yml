@@ -51,9 +51,9 @@ INST_MANDATE: >-
 RATIONALE: >-
 
 REC_USE_LIM: >-
-  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ods/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores.
+  Este indicador forma parte del Panel ODS del Instituto Nacional de Estadística (https://www.ine.es/dyngs/ODS/es/index.htm) y del Panel ODS del Portal Estadístico de la Generalitat Valenciana (http://pegv.gva.es/es/ods), que ofrecen esta información para ámbitos territoriales superiores.
    
-   Documentación metodológica sobre Indicadores de Pobreza y Condiciones de Vida a nivel subregional: [Pobreza y Condiciones de Vida](https://pegv.gva.es/auto/produccion/web/ecv/metodologia/metodologia_val.htm).
+   Documentación metodológica sobre Indicadores de Pobreza y Condiciones de Vida a nivel subregional: [Pobreza y Condiciones de Vida](https://pegv.gva.es/auto/produccion/web/ECV/Metodologia/Metodologia_cas.htm).
 DATA_COMP: >-
   Porcentaje de población que vive en hogares que carecen al menos de cuatro conceptos de los nueve siguientes:
 
