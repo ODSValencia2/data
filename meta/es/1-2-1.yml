@@ -60,6 +60,7 @@ REC_USE_LIM: >-
    Como la media de los ingresos en la Comunidad Valenciana es inferior a la de España, los porcentajes de pobreza con umbral autonómico son sensiblemente inferiores a los que se tienen utilizando el umbral nacional.
 DATA_COMP: >-
   Cociente de la población en riesgo de pobreza relativa considerando el umbral autonómico de pobreza el año de referencia respecto a la población residente.
+
    El ingreso de cada una de las personas que residen en un determinado hogar se calcula como el ingreso del total del hogar a la cual pertenecen entre su número de unidades de consumo. A continuación se obtiene la mediana (percentil 50) de la distribución de ingresos de todas las personas residentes, siendo el 60% de este valor el umbral de pobreza considerado para mesurar la pobreza relativa.
 DATA_VALIDATION: >-
 
