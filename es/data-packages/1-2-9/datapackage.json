@@ -12,29 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Año"
           },
           {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hombres",
-                "Mujeres",
-                ""
-              ]
-            },
-            "title": "Sexo"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Valor"
           }
         ]
